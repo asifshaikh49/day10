@@ -12,4 +12,6 @@ else
 fi
 
 echo "My name is $name"
+echo "I have passed in exam "#Added feature2.1 in development branch
+
 
