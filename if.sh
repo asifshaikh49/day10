@@ -14,5 +14,4 @@ fi
 echo "My name is $name"
 echo "I have passed in exam "#Added feature2.1 in development branch
 echo "I have scored $marks"#Feature 2 is completed and ready for release
-
-
+echo "I have made some changes"#
